@@ -1,0 +1,10 @@
+{
+  "packages": [
+    "frontend",
+    "backend",
+    "bin"
+  ],
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "version": "independent"
+}
